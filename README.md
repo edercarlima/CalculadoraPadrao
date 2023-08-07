@@ -1,4 +1,6 @@
-# CalculadoraPadrao
+# CalculadoraPadrao - Framework MVC
+Tecnologia C#
+
 A Calculadora Padrão foi construída utilizando o padrão de arquitetura de software chamado Framework MVC (Model-View-Controller).
 
 O framework MVC é amplamente utilizado no desenvolvimento de aplicações, especialmente em aplicações web, para dividir as responsabilidades entre diferentes componentes. O objetivo principal é facilitar a manutenção e a evolução do código, tornando-o mais organizado e de fácil entendimento.
@@ -19,3 +21,14 @@ Esses componentes se comunicam entre si, mas sem depender diretamente uns dos ou
 Muitos frameworks de desenvolvimento, como Django (Python), Ruby on Rails (Ruby), Laravel (PHP), Spring (Java) e ASP.NET MVC (C#), seguem o padrão MVC. Esses frameworks fornecem uma estrutura para desenvolver aplicações seguindo esse padrão, facilitando a organização e o desenvolvimento eficiente de projetos de software.
 
 Ao utilizar um framework MVC, os desenvolvedores podem separar claramente a lógica de negócio, a apresentação visual e o controle da aplicação, o que torna o código mais limpo, reutilizável e de fácil manutenção.
+
+Neste exemplo, criaremos uma aplicação que simula o funcionamento de uma calculadora básica. 
+Lembre-se de que esse é apenas um exemplo ilustrativo, e uma calculadora real seria muito mais complexa.
+
+**Estrutura**
+  1. **Model (CalculadoraModel.cs):**
+  2. **View (CalculadoraView.cs):**
+  3. **Controller (CalculadoraController.cs):**
+  4. **Program.cs (Arquivo principal):**
+
+O Model (`CalculadoraModel`) é responsável pelas operações matemáticas, a View (`CalculadoraView`) lida com a interação com o usuário e a exibição de resultados, e o Controller (`CalculadoraController`) coordena a lógica entre a View e o Model. Através do padrão MVC, cada componente está separado e responsável por tarefas específicas, tornando o código mais organizado e de fácil manutenção.
