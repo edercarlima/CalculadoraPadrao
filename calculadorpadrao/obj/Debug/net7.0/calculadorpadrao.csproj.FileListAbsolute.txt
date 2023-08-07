@@ -1,0 +1,15 @@
+C:\DEV\CalculadoraPadrao\calculadorpadrao\bin\Debug\net7.0\calculadorpadrao.exe
+C:\DEV\CalculadoraPadrao\calculadorpadrao\bin\Debug\net7.0\calculadorpadrao.deps.json
+C:\DEV\CalculadoraPadrao\calculadorpadrao\bin\Debug\net7.0\calculadorpadrao.runtimeconfig.json
+C:\DEV\CalculadoraPadrao\calculadorpadrao\bin\Debug\net7.0\calculadorpadrao.dll
+C:\DEV\CalculadoraPadrao\calculadorpadrao\bin\Debug\net7.0\calculadorpadrao.pdb
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\calculadorpadrao.csproj.AssemblyReference.cache
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\calculadorpadrao.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\calculadorpadrao.AssemblyInfoInputs.cache
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\calculadorpadrao.AssemblyInfo.cs
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\calculadorpadrao.csproj.CoreCompileInputs.cache
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\calculadorpadrao.dll
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\refint\calculadorpadrao.dll
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\calculadorpadrao.pdb
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\calculadorpadrao.genruntimeconfig.cache
+C:\DEV\CalculadoraPadrao\calculadorpadrao\obj\Debug\net7.0\ref\calculadorpadrao.dll
